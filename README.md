@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Winnie</h1>
 <h3 align="center">A fullstack developer with a passion for web accessibility</h3>
 
-🔭 I’m currently working on [reVive](tbd)
+🔭 I’m currently working on [reVive](https://github.com/winniemzhao/reVive)
 
 🌱 I’m currently learning **React, WCAG guidelines, ARIA, and earning a certificate in Information Accessibility Design & Policy**
 
