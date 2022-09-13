@@ -7,9 +7,9 @@
 
 👨‍💻 All of my projects are available at [https://winniemzhao.github.io/portfolio/](https://winniemzhao.github.io/portfolio/)
 
-💬 Ask me about **why I became a developer!**
+💬 Ask me **why I became a developer!**
 
-📫 How to reach me **winniemaizhao@gmail.com**
+📫 The best way to reach me is at **winniemaizhao@gmail.com**
 
 ⚡ Fun fact **I design and create wedding cakes 🎂**
 
