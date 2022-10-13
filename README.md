@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on [REquipment (a free marketplace for sharing gently used rehabilitation equipment)](https://github.com/winniemzhao/requipment)
 
-🌱 I’m currently learning **React, WCAG guidelines, ARIA, and earning a certificate in Information Accessibility Design & Policy**
+🌱 I’m currently learning **Tailwind, Hotwire (Turbo), React, WCAG 2.x, WAI-ARIA, and earning a certificate in Information Accessibility Design & Policy**
 
 👨‍💻 All of my projects are available at [https://winniemzhao.github.io/portfolio/](https://winniemzhao.github.io/portfolio/)
 
