@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Winnie</h1>
 <h3 align="center">A fullstack developer with a passion for web accessibility</h3>
 
-🔭 I’m currently working on [REquipment (a free marketplace for sharing gently used rehabilitation equipment)](https://github.com/winniemzhao/requipment)
-
-🌱 I’m currently learning **Tailwind, Hotwire (Turbo), React, WCAG 2.x, WAI-ARIA, and earning a certificate in Information Accessibility Design & Policy**
-
-👨‍💻 All of my projects are available at [https://winniemzhao.github.io/portfolio/](https://winniemzhao.github.io/portfolio/)
+🌱 I like to work with **React, Typescript, Next.js, Node.js, Tailwind, Postgres, Prisma, Drizzle, Figma **
 
 💬 Ask me **why I became a developer!**
 
